@@ -1,17 +1,7 @@
-# Sorting your work, it was never so easy
+# Make public your thoughts
 
-Backend
-
-``` bash
-cd backend
-npm install
-npm start
-```
-
-Frontend
+You need to install Docker and then run of it
 
 ``` bash
-cd frontend
-npm install
-npm run dev
+docker-compose up -d
 ```
